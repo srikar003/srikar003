@@ -107,7 +107,7 @@ Built a multi-agent AI DevOps workflow that reviews GitHub pull requests, runs C
 
 | Project | Highlights |
 |--------|------------|
-| [Recruiting Screener](https://github.com/srikar003/recruiting-screener) | Recruiter-first AI screening app that helps manage job descriptions, infer role and level, generate screening questions, track candidates, upload interview recordings, and review transcripts, scores, and evaluations. Built with React, FastAPI, PostgreSQL, and optional AWS S3 support. |
+| [Recruiting Screener](https://github.com/srikar003/recruting-screener) | Recruiter-first AI screening app that helps manage job descriptions, infer role and level, generate screening questions, track candidates, upload interview recordings, and review transcripts, scores, and evaluations. Built with React, FastAPI, PostgreSQL, and optional AWS S3 support. |
 | [AI DevOps Agent](https://github.com/srikar003/ai-devops-agent) | Multi-agent AI DevOps reviewer that analyzes pull requests, runs CI/security checks, ranks findings, and generates developer-friendly review comments. Built with Python, LangGraph, FastAPI, and GitHub API integrations. |
 | [JobSearchBuddy](https://github.com/srikar003/JobSearchBuddy) | Privacy-first local AI resume tailoring tool using Ollama, embeddings, retrieval workflows, and structured DOCX generation for ATS-friendly resumes. |
 | [Secure Task Management System](https://github.com/srikar003/Secure-Task-Management-System) | Full-stack task management system focused on secure authentication, protected APIs, and clean frontend/backend architecture using TypeScript. |
